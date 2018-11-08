@@ -1,0 +1,4 @@
+this is a duplicate line
+this is a duplicate line
+dogs
+cats
